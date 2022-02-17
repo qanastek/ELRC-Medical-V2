@@ -216,6 +216,6 @@ Please cite the following paper when using this model.
     year = 2018,
     address = Miyazaki, Japan,
     publisher = European Language Resources Association (ELRA),
-    url = "https://aclanthology.org/L18-1213",
+    url = https://aclanthology.org/L18-1213,
 }
 ```
