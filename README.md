@@ -199,17 +199,17 @@ Please cite the following paper when using this model.
 
 ```latex
 @inproceedings{losch-etal-2018-european,
-    title = "{E}uropean Language Resource Coordination: Collecting Language Resources for Public Sector Multilingual Information Management",
-    author = {L{\"o}sch, Andrea  and
-      Mapelli, Val{\'e}rie  and
+    title = "European Language Resource Coordination: Collecting Language Resources for Public Sector Multilingual Information Management",
+    author = L"osch, Andrea  and
+      Mapelli, Valérie  and
       Piperidis, Stelios  and
-      Vasi{\c{l}}jevs, Andrejs  and
+      Vasiljevs, Andrejs  and
       Smal, Lilli  and
       Declerck, Thierry  and
       Schnur, Eileen  and
       Choukri, Khalid  and
       van Genabith, Josef},
-    booktitle = "Proceedings of the Eleventh International Conference on Language Resources and Evaluation ({LREC} 2018)",
+    booktitle = "Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)",
     month = may,
     year = "2018",
     address = "Miyazaki, Japan",
