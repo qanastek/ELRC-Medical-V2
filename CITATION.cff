@@ -1,0 +1,25 @@
+cff-version: 1.0.0
+message: "European Language Resource Coordination: Collecting Language Resources for Public Sector Multilingual Information Management"
+authors:
+- family-names: "Lösch"
+  given-names: "Andrea"
+- family-names: "Mapelli"
+  given-names: "Valérie"
+- family-names: "Piperidis"
+  given-names: "Stelios"
+- family-names: "Vasiļjevs"
+  given-names: "Andrejs"
+- family-names: "Smal"
+  given-names: "Lilli"
+- family-names: "Declerck"
+  given-names: "Thierry"
+- family-names: "Schnur"
+  given-names: "Eileen"
+- family-names: "Choukri"
+  given-names: "Khalid"
+- family-names: "van Genabith"
+  given-names: "Josef"
+title: "European Language Resource Coordination: Collecting Language Resources for Public Sector Multilingual Information Management"
+version: 2.0.0
+date-released: 2018-01-01
+url: "https://aclanthology.org/L18-1213/"
